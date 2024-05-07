@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ***************** AJOUT DUN PREREQUIS POUR TESTER LA GESTION DE CONLFLIT*******
-
+## MODIF 1 ####
 
 ```
 A définir
